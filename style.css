@@ -1,0 +1,23 @@
+.red-square{
+    color: crimson;
+    width: 100px;
+    height: 100px;
+    }
+.js-target{
+    list-style: none;
+}
+.event-button{
+    cursor: pointer;
+}
+.input-to-copy{
+ width: 200px;
+}
+.p-to-copy{
+    font-size: 30px;
+}
+
+.color-box {
+    background-color: limegreen;
+    width: 100px;
+    height: 100px;
+  }
